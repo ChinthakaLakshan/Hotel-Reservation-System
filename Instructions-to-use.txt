@@ -1,0 +1,12 @@
+Firstly you need to create a database called 'Hotel' using xampp phpmyadmin
+Run the 
+
+
+
+
+Link for customers
+http://localhost/Hotel/
+
+
+Link for Aknara management
+http://localhost/Hotel/admin/
